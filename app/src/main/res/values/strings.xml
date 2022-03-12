@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica7</string>
+    <string name="home_title">Upcomming meetups</string>
+    <string name="title1">USA, Los Angeles - 2 Weeks</string>
+    <string name="subtitle1">City of Los Angeles</string>
+    <string name="title2">Madives - 3 weeks</string>
+    <string name="subtitle2">Beach vacation</string>
+    <string name="option1">0-5</string>
+    <string name="option2">6-11</string>
+    <string name="option3">12-17</string>
+    <string name="option4">18-99</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

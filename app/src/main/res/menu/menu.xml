@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/euro"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/baseline_castle_black_24dp"
+        android:title="Eurodisney"/>
+
+    <item android:id="@+id/rent"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/baseline_car_rental_black_24dp"
+        android:title="Rent a Car"/>
+</menu>
